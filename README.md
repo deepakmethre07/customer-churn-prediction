@@ -155,7 +155,7 @@ The project report proposes:
 
 ## Author
 
-**Deepak Methre**
+**Deepak M**
 
 BTech Computer Science & Engineering  
 PES University
